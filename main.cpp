@@ -172,6 +172,6 @@ int main(int argc, char** argv) {
     cout << endl << "Matrix A * Matrix B:" << endl;
     A*B;
     A.print(cout);
-
+    
     return 0;
 }
